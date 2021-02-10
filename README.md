@@ -7,3 +7,5 @@
 ## Emphasis
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
+
+[I'm an inline-style link](https://www.google.com)
