@@ -77,3 +77,11 @@ end architecture dataflow;
 ![photo_of_simulation](01.png)
 
 [This is link to my EDA plaground example of De Morgan's laws](https://www.edaplayground.com/x/eDBZ)
+
+
+2
+
+### Listing of VHDL code `design.vhd` for Distributive laws
+
+```vhdl
+
