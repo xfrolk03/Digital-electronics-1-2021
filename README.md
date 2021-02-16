@@ -2,8 +2,6 @@
 
 1. Submit the GitHub link to your `Digital-electronics-1` repository.
 
-[This is link to my repository](https://github.com/xfrolk03/Digital-electronics-1-2021)
-
 2. Verification of De Morgan's laws of function f(c,b,a). Submit:
     * Listing of VHDL code `design.vhd`,
     * Screenshot with simulated time waveforms,
@@ -13,6 +11,12 @@
     * Listing of VHDL code `design.vhd`,
     * Screenshot with simulated time waveforms,
     * Link to your public EDA Playground example.
+
+------------------------------------------------------------------------
+
+1
+
+[This is link to my repository](https://github.com/xfrolk03/Digital-electronics-1-2021)
 
 2
 
