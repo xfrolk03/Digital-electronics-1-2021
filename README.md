@@ -18,6 +18,7 @@
 
 ### Listing of VHDL code `design.vhd` for De Morgan's laws 
 
+```vhdl
 ------------------------------------------------------------------------
 --
 -- Example of basic OR, AND, XOR gates.
@@ -63,7 +64,7 @@ begin
     f2_o   <= ((a_i) NOR NOT (c_i)) NOR (b_i);
     
 end architecture dataflow;
-
+```
 
 # Simulation photo
 
