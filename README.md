@@ -47,7 +47,7 @@ entity gates is
         c_i    : in  std_logic;         -- Data input
         for_o  : out std_logic;         -- OR output function
         fand_o : out std_logic;         -- AND output function
-        fxor_o : out std_logic;			-- XOR output function
+        fxor_o : out std_logic;		-- XOR output function
         f_o    : out std_logic;
         f1_o   : out std_logic;
         f2_o   : out std_logic
@@ -64,7 +64,7 @@ begin
 --    fxor_o <= a_i xor b_i;
     
     f_o    <= (NOT(b_i) AND (a_i)) OR ((NOT(c_i) AND not(b_i)));
-	  f1_o   <= ((a_i) NAND NOT (b_i)) NAND (NOT (b_i) NAND NOT (c_i));
+    f1_o   <= ((a_i) NAND NOT (b_i)) NAND (NOT (b_i) NAND NOT (c_i));
     f2_o   <= ((a_i) NOR NOT (c_i)) NOR (b_i);
     
 end architecture dataflow;
