@@ -70,7 +70,7 @@ begin
 end architecture dataflow;
 ```
 
-# Simulation photo
+### Simulation photo
 
 ![photo_of_simulation](01.png)
 
