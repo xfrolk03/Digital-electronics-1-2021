@@ -16,6 +16,8 @@
 
 1
 
+### Link to my github repository
+
 [This is link to my repository](https://github.com/xfrolk03/Digital-electronics-1-2021)
 
 2
