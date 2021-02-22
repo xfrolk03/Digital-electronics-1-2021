@@ -1,8 +1,22 @@
+## Lab assignment
 
+1. Preparation tasks (done before the lab at home). Submit:
+    * Completed 2-bit comparator truth table.
 
+2. A 2-bit comparator. Submit:
+    * Karnaugh maps for all three functions,
+    * Equations of simplified SoP form of the "greater than" function and simplified PoS form of the "less than" function.
+    * Link to your public EDA Playground example in the form `https://www.edaplayground.com/...`
 
+3. A 4-bit binary comparator. Submit:
+    * Listing of VHDL architecture from design file (`design.vhd`) with syntax highlighting,
+    * Listing of VHDL stimulus process from testbench file (`testbench.vhd`) with syntax highlighting,
+    * Listing of simulator console output, i.e. with one reported error,
+    * Link to your public EDA Playground example in the form `https://www.edaplayground.com/...`
 
-# Lab 2: Combinational logic
+------------------------------------------------------------------------
+
+1
 
 ## 1.Preparation tasks
 
