@@ -799,8 +799,8 @@ end architecture Behavioral;
 		report "Test failed for input combination: 1111, 1110" severity error;
 
 		s_b <= "1111"; s_a <= "1111"; wait for 100 ns;
-		assert ((s_B_greater_A = '1') and (s_B_equals_A = '0') and (s_B_less_A = '0')) --chyba
-		report "Test failed for input combination: 1111, 1111 [simulated]" severity error;
+		assert ((s_B_greater_A = '1') and (s_B_equals_A = '0') and (s_B_less_A = '0'))
+		report "Test failed for input combination: 1111, 1111" severity error;
 
 
         -- Report a note at the end of stimulus process
@@ -808,5 +808,8 @@ end architecture Behavioral;
         wait;
     end process p_stimulus;
 ```
+### Listing of simulator console output, i.e. with one reported error
+
+![console_output](error.jpg)
 
 ### [This is link to my EDA plaground example of 4 bit comparator](https://www.edaplayground.com/x/8Ue8)
