@@ -82,8 +82,8 @@ end architecture Behavioral;
         report "Stimulus process started" severity note;
  
  		s_b <= "0000"; s_a <= "0000"; wait for 100 ns;
-		assert ((s_B_greater_A = '0') and (s_B_equals_A = '1') and (s_B_less_A = '0'))
-		report "Test failed for input combination: 0000, 0000" severity error;
+		assert ((s_B_greater_A = '1') and (s_B_equals_A = '0') and (s_B_less_A = '0'))
+		report "Test failed for input combination: 0000, 0000... This is a mistake" severity error;
         
         	s_b <= "0000"; s_a <= "0001"; wait for 100 ns;
 		assert ((s_B_greater_A = '0') and (s_B_equals_A = '0') and (s_B_less_A = '1'))
