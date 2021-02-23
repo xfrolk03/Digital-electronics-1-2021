@@ -78,8 +78,8 @@ entity comparator_2bit is
         a_i           : in  std_logic_vector(2 - 1 downto 0);
         b_i           : in  std_logic_vector(2 - 1 downto 0);
         
-        B_greater_A_o :	out std_logic;		-- B is greater than A
-        B_equals_A_o  : out std_logic;		-- B is equal A
+        B_greater_A_o :	out std_logic;	     -- B is greater than A
+        B_equals_A_o  : out std_logic;		  -- B is equal A
         B_less_A_o    : out std_logic       -- B is less than A
         
     );
