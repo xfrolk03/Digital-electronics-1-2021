@@ -41,3 +41,8 @@
 
 ## 2.Karnaugh maps for all three functions
 
+![photo_of_maps](k_maps.jpg)
+
+## Equations of simplified SoP form of the "greater than" function and simplified PoS form of the "less than" function.
+
+![photo_of_Sop_Pos](Sop_Pos.jpg)
