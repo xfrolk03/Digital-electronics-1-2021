@@ -50,3 +50,9 @@
 ![photo_of_Sop_Pos](Sop_Pos.jpg)
 
 ### [This is link to my EDA plaground example of 2 bit comparator](https://www.edaplayground.com/x/LXDB)
+
+## 3. A 4-bit binary comparator.
+
+### Listing of VHDL architecture from design file (`design.vhd`) with syntax highlighting
+
+
