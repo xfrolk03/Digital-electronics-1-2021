@@ -97,3 +97,5 @@ begin
 
 end architecture Behavioral;
 ```
+
+### [This is link to my EDA plaground example of 4 bit comparator] (https://www.edaplayground.com/x/8Ue8)
