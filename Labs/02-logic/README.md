@@ -80,7 +80,7 @@ entity comparator_4bit is
         
         B_greater_A_o :	out std_logic;		  -- B is greater than A
         B_equals_A_o  : out std_logic;		  -- B equals A
-        B_less_A_o    : out std_logic       -- B is less than A
+        B_less_A_o    : out std_logic     -- B is less than A
         
     );
 end entity comparator_4bit;
