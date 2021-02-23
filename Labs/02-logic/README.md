@@ -40,12 +40,13 @@
 
 ------------------------------------------------------------------------
 
-## 2.Karnaugh maps for all three functions
+## 2. A 2-bit comparator.
+### Karnaugh maps for all three functions
 
 ![photo_of_maps](k_maps.jpg)
 
-## Equations of simplified SoP form of the "greater than" function and simplified PoS form of the "less than" function.
+### Equations of simplified SoP form of the "greater than" function and simplified PoS form of the "less than" function.
 
 ![photo_of_Sop_Pos](Sop_Pos.jpg)
 
-[This is link to my EDA plaground example of 2 bit comparator](https://www.edaplayground.com/x/LXDB)
+### [This is link to my EDA plaground example of 2 bit comparator](https://www.edaplayground.com/x/LXDB)
