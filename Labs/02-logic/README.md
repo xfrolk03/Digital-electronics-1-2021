@@ -810,6 +810,6 @@ end architecture Behavioral;
 ```
 ### Listing of simulator console output, i.e. with one reported error
 
-![console_output](error.jpg)
+![console_output](error.png)
 
 ### [This is link to my EDA plaground example of 4 bit comparator](https://www.edaplayground.com/x/8Ue8)
