@@ -56,7 +56,6 @@
 ### Listing of VHDL architecture from design file (`design.vhd`) with syntax highlighting
 
 ```vhdl
-------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 -- Architecture body for 4-bit binary comparator
