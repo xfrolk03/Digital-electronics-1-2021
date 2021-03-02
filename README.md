@@ -1,4 +1,4 @@
-## Mapping tree of my repository
+## Mapping tree of my LAB repository
 
 [LAB 01](https://github.com/xfrolk03/Digital-electronics-1-2021/tree/main/Labs/01-gates)
 [LAB 02](https://github.com/xfrolk03/Digital-electronics-1-2021/tree/main/Labs/02-logic)
