@@ -124,3 +124,6 @@ p_stimulus : process
 
 ### 3.2 Adding source file
 
+![adding_source](photos/20.png)
+![adding_source](photos/21.png)
+![adding_source](photos/22.png)
