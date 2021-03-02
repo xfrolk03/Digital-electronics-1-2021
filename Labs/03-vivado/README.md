@@ -127,3 +127,10 @@ p_stimulus : process
 ![adding_source](photos/20.png)
 ![adding_source](photos/21.png)
 ![adding_source](photos/22.png)
+![adding_source](photos/23.png)
+
+### 3.3 Adding testbench file
+
+Postupujeme podobně jako v kapitole 3.2.
+
+File - Add Sources - 
