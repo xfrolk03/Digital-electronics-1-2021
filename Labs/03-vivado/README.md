@@ -121,3 +121,6 @@ p_stimulus : process
 ![create_project](photos/08.png)
 ![create_project](photos/09.png)
 ![create_project](photos/10.png)
+
+### 3.2 Adding source file
+
