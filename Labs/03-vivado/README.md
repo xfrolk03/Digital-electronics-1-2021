@@ -104,10 +104,12 @@ p_stimulus : process
 
 ![photo_of_simulation](photos/simulation.png)
 
+------------------------------------------------------------------------
+
 ## 3. A Vivado tutorial
 ### Your tutorial for Vivado design flow: project creation, adding source file, adding testbench file, running simulation, (adding XDC constraints file)
 
-### Creating projekt
+### 3.1 Creating projekt
 
 ![create_project](photos/01.png)
 ![create_project](photos/02.png)
