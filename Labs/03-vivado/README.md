@@ -109,13 +109,13 @@ p_stimulus : process
 
 ### Creating projekt
 
-![create_project](01.png)
-![create_project](02.png)
-![create_project](03.png)
-![create_project](04.png)
-![create_project](05.png)
-![create_project](06.png)
-![create_project](07.png)
-![create_project](08.png)
-![create_project](09.png)
-![create_project](10.png)
+![create_project](photos/01.png)
+![create_project](photos/02.png)
+![create_project](photos/03.png)
+![create_project](photos/04.png)
+![create_project](photos/05.png)
+![create_project](photos/06.png)
+![create_project](photos/07.png)
+![create_project](photos/08.png)
+![create_project](photos/09.png)
+![create_project](photos/10.png)
