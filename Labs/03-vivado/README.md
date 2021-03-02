@@ -152,3 +152,6 @@ Výstup můžeme vidět na obrázku níže
 
 ![adding_simulation](photos/30.png)
 
+### 3.3 Running simulation
+
+![running_simulation](photos/40.png)
