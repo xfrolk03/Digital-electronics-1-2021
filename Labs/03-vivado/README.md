@@ -112,25 +112,43 @@ p_stimulus : process
 ### 3.1 Creating projekt
 
 ![create_project](photos/01.png)
+
 ![create_project](photos/02.png)
+
 ![create_project](photos/03.png)
+
 ![create_project](photos/04.png)
+
 ![create_project](photos/05.png)
+
 ![create_project](photos/06.png)
+
 ![create_project](photos/07.png)
+
 ![create_project](photos/08.png)
+
 ![create_project](photos/09.png)
+
 ![create_project](photos/10.png)
 
 ### 3.2 Adding source file
 
 ![adding_source](photos/20.png)
+
 ![adding_source](photos/21.png)
+
 ![adding_source](photos/22.png)
+
 ![adding_source](photos/23.png)
 
 ### 3.3 Adding testbench file
 
 Postupujeme podobně jako v kapitole 3.2.
 
-File - Add Sources - 
+File - Add Sources - Add or create simulation sources - Create File - File Type > VHDL , File name > simulace - Ok - Finish
+Define module - Entity name , Architecture name - Ok - Yes
+
+Výstup můžeme vidět na obrázku níže
+
+![adding_simulation](photos/30.png)
+
