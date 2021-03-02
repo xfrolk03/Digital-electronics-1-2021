@@ -102,7 +102,7 @@ p_stimulus : process
 
 ### Screenshot with simulated time waveforms; always display all inputs and outputs
 
-![photo_of_simulation](simulation.png)
+![photo_of_simulation](photos/simulation.png)
 
 ## 3. A Vivado tutorial
 ### Your tutorial for Vivado design flow: project creation, adding source file, adding testbench file, running simulation, (adding XDC constraints file)
