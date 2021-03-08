@@ -217,3 +217,4 @@ hex7_seg : entity work.hex_7seg
 ### Screenshot with simulated time waveforms
 
 
+ asdfasdgrju
