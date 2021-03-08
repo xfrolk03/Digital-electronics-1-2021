@@ -18,3 +18,4 @@
 ## 1. Preparation tasks
 ### Figure or table with connection of 7-segment displays on Nexys A7 board
 
+![figure_of_connections](photo/n4r.png)
