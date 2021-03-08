@@ -161,7 +161,7 @@ p_stimulus : process
 ### Listing of VHDL code from source file `top.vhd` with 7-segment module instantiation
 
 ```vhdl
-hex2seg : entity work.hex_7seg
+hex_seg : entity work.hex_7seg
         port map(
             hex_i    => SW,
             
