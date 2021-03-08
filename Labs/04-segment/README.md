@@ -14,6 +14,7 @@
     * Truth table and listing of VHDL code for LEDs(7:4) with syntax highlighting,
     * Screenshot with simulated time waveforms; always display all inputs and outputs.
 
+------------------------------------------------------------------------
 
 ## 1. Preparation tasks
 ### Figure or table with connection of 7-segment displays on Nexys A7 board
@@ -36,5 +37,4 @@
 | CG | L18 | AN1 | J18 |
 | DP | H15 | AN0 | J17 |
 
-
-------------------------------------------------------------------------
+###Decoder truth table for common anode 7-segment display.
