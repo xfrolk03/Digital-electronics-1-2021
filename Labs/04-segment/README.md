@@ -75,13 +75,13 @@ begin
     -- decoder. Any time "hex_i" is changed, the process is "executed".
     -- Output pin seg_o(6) controls segment A, seg_o(5) segment B, etc.
     --         a
-    --       -----          a: seg_o(6)
-    --    f |     | b       b: seg_o(5)
-    --      |  g  |         c: seg_o(4)
-    --       -----          d: seg_o(3)
-    --    e |     | c       e: seg_o(2)
-    --      |     |         f: seg_o(1)
-    --       -----          g: seg_o(0)
+    --       -----          
+    --    f |     | b       
+    --      |  g  |         
+    --       -----          
+    --    e |     | c       
+    --      |     |         
+    --       -----          
     --         d
     -- 
     --------------------------------------------------------------------
