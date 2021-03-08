@@ -58,7 +58,7 @@
 | E       |    1110    |   0   |   1   |   1   |   0   |   0   |   0   |   0   |
 | F       |    1111    |   0   |   1   |   1   |   1   |   0   |   0   |   0   |
 
-![example](7-Segment-Display-Number-Formation-Segment-Contol.png)
+![example](photo/7-Segment-Display-Number-Formation-Segment-Contol.png)
 
 ------------------------------------------------------------------------
 
