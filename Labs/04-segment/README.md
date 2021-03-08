@@ -154,3 +154,9 @@ p_stimulus : process
         wait;
    end process p_stimulus;
 ```
+### Screenshot with simulated time waveforms
+
+
+
+### Listing of VHDL code from source file `top.vhd` with 7-segment module instantiation
+
