@@ -62,3 +62,5 @@
 
 ------------------------------------------------------------------------
 
+## 2. Seven-segment display decoder
+### Listing of VHDL architecture from source file `hex_7seg.vhd` with syntax highlighting
