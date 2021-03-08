@@ -211,7 +211,9 @@ hex7_seg : entity work.hex_7seg
     -- Turn LED(7) on if input value is a power of two, ie 1, 2, 4, or 8
     LED(7) <= '1' when (SW = "0001" or SW = "0010" or SW = "0100" or 
                         SW = "1000") 
-                  else '0';
-                  
+                  else '0';              
  ```
+
+### Screenshot with simulated time waveforms
+
 
