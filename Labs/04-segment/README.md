@@ -21,3 +21,17 @@
 <p align="center">
   <img src="photo/n4r.png">
 </p>
+
+| **Segment** | **Connection** | **Anode** | **Connection** | 
+| :-: | :-: | :-: | :-: |
+| CA | T10 | AN7 | U13 |
+| CB | R10 | AN6 | K2 |
+| CC | K16 | AN5 | T14 |
+| CD | K13 | AN4 | P14 |
+| CE | P15 | AN3 | J14 |
+| CF | T11 | AN2 | T9 |
+| CG | L18 | AN1 | J18 |
+| DP | H15 | AN0 | J17 |
+
+
+------------------------------------------------------------------------
