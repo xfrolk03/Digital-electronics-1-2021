@@ -37,4 +37,4 @@
 | CG | L18 | AN1 | J18 |
 | DP | H15 | AN0 | J17 |
 
-###Decoder truth table for common anode 7-segment display.
+### Decoder truth table for common anode 7-segment display.
