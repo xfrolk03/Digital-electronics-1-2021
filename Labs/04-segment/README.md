@@ -15,3 +15,6 @@
     * Screenshot with simulated time waveforms; always display all inputs and outputs.
 
 
+## 1. Preparation tasks
+### Figure or table with connection of 7-segment displays on Nexys A7 board
+
