@@ -156,7 +156,7 @@ p_stimulus : process
 ```
 ### Screenshot with simulated time waveforms
 
-
+![simulation_segment](photo/simulation1.png)
 
 ### Listing of VHDL code from source file `top.vhd` with 7-segment module instantiation
 
@@ -216,4 +216,4 @@ hex7_seg : entity work.hex_7seg
 
 ### Screenshot with simulated time waveforms
 
-
+![simulation_leds](photo/simulation2.png)
