@@ -21,6 +21,7 @@
 ![buttons](pictures/buttons.png)
 
 BTN_L = 0V
+
 BTN_H = 3,3V
 
 | Button |  Pin | 
