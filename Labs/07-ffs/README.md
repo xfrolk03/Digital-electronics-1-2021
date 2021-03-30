@@ -562,4 +562,4 @@ q_bar <= s_q_bar;
 ## 4. Shift register
 ### Image of the shift register schematic
 
-![shift_register](pictures/shift_register.png)
+![shift_register](pictures/shift_register.jpg)
