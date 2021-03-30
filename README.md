@@ -11,3 +11,5 @@
 [LAB 05](https://github.com/xfrolk03/Digital-electronics-1-2021/tree/main/Labs/05-counter)
 
 [LAB 06](https://github.com/xfrolk03/Digital-electronics-1-2021/tree/main/Labs/06-display_driver)
+
+[LAB 06](https://github.com/xfrolk03/Digital-electronics-1-2021/tree/main/Labs/07-ffs)
