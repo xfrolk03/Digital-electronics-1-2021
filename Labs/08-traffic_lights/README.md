@@ -287,7 +287,6 @@ end architecture Behavioral;
 
                     when others =>
                         s_state <= STOP1;
-
                 end case;
             end if; -- Synchronous reset
         end if; -- Rising edge
