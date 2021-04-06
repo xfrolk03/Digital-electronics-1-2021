@@ -198,7 +198,6 @@ end architecture Behavioral;
 
 ### Listing of VHDL code of sequential process `p_smart_traffic_fsm` with syntax highlighting
 
-#### Listing of VHDL code of sequential process p_smart_traffic_fsm
 ````vhdl
     p_smart_traffic_fsm : process(clk)
     begin
