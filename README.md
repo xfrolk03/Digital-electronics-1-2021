@@ -15,3 +15,5 @@
 [LAB 07](https://github.com/xfrolk03/Digital-electronics-1-2021/tree/main/Labs/07-ffs)
 
 [LAB 08](https://github.com/xfrolk03/Digital-electronics-1-2021/tree/main/Labs/08-traffic_lights)
+
+[Project](https://github.com/xfrolk03/Digital-electronics-1-2021/tree/main/Labs/project)
