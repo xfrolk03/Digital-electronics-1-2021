@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue May  4 14:51:31 2021
+# Process ID: 13144
+# Current directory: C:/Users/Domèo/Desktop/hall_sensor
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11752 C:\Users\Domèo\Desktop\hall_sensor\hall_sensor.xpr
+# Log file: C:/Users/Domèo/Desktop/hall_sensor/vivado.log
+# Journal file: C:/Users/Domèo/Desktop/hall_sensor\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Domèo/Desktop/hall_sensor/hall_sensor.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/jofad/Documents/GitHub/VS Code/Digital-electronics-1/Labs/project/hall_sensor' since last save.
+WARNING: [filemgmt 56-2] Default IP Output Path : Could not find the directory 'C:/Users/Domèo/Desktop/hall_sensor/hall_sensor.gen/sources_1', nor could it be found using path 'C:/Users/jofad/Documents/GitHub/VS Code/Digital-electronics-1/Labs/project/hall_sensor/hall_sensor.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+open_project: Time (s): cpu = 00:00:14 ; elapsed = 00:00:08 . Memory (MB): peak = 995.480 ; gain = 0.000
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue May  4 14:53:15 2021...

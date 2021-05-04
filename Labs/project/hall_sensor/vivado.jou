@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue May  4 15:11:34 2021
+# Process ID: 3092
+# Current directory: C:/Dominik/Digital-electronics-1/Labs/project/hall_sensor
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1248 C:\Dominik\Digital-electronics-1\Labs\project\hall_sensor\hall_sensor.xpr
+# Log file: C:/Dominik/Digital-electronics-1/Labs/project/hall_sensor/vivado.log
+# Journal file: C:/Dominik/Digital-electronics-1/Labs/project/hall_sensor\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Dominik/Digital-electronics-1/Labs/project/hall_sensor/hall_sensor.xpr
+update_compile_order -fileset sources_1
